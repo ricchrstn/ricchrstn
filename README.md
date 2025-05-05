@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ### 🎵 Spotify Playlist
 <div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/21m3khnbv2mqrpw532qrlb7ka?si=49c2255d2e354adf">
+  <a href="https://open.spotify.com/user/https://open.spotify.com/user/21m3khnbv2mqrpw532qrlb7ka">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/21m3khnbv2mqrpw532qrlb7ka?si=49c2255d2e354adf&count=5&unique=true"" alt="Spotify recently played"  />
   </a>
 

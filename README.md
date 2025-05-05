@@ -33,7 +33,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ### 🎵 Spotify Playlist
 
 <div align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/65mSMJlLxhFWC5GRUfaMqN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <a href="https://open.spotify.com/playlist/65mSMJlLxhFWC5GRUfaMqN" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="40" height="40" alt="Spotify Playlist" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">

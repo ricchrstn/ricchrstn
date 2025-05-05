@@ -1,40 +1,62 @@
-<br clear="both">
-
-<h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
-
-<p align="center">Hi there! I'm Ricky Christian Situmorang, a passionate developer who loves exploring new technologies and building amazing projects. 🚀</p>
-
----
-
-### 🛠️ Tech Stack
+<!-- <img src="https://media1.tenor.com/m/slXqsD1oE-4AAAAd/lyney-lynette.gif" width="900"> -->
+<img src="https://media1.tenor.com/m/Jat0oxpwUIcAAAAd/fruits-basket-furuba.gif" width="900">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
+  <img src="https://profile-counter.glitch.me/ricchrstn/count.svg?"  />
 </div>
 
----
-
-### 📊 GitHub Stats
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricchrstn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricchrstn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://www.codewars.com/users/ricchrstn/badges/small" />
 </div>
 
----
+### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello, I'm Ricky Christian Situmorang! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
 
-### 🌐 Connect with Me
+Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building impactful projects. 
+
+### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="20" /> &nbsp; Tech Stack
+
+- **Languages:** Dart, HTML, CSS, JavaScript
+- **Frameworks & Libraries:** Flutter, Bootstrap
+- **Databases:** Firebase
+- **Tools:** Git, VSCode
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+Thanks for stopping by! 🚀
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> &nbsp; Just Random Stats & Activity
+
+[![An image of @ricchrstn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ricchrstn)](https://holopin.io/@ricchrstn)
+
+<!--START_SECTION:waka-->
+
+```txt
+Svelte                     784 hrs 58 mins █████████████▓░░░░░░░░░░░   54.58 %
+TypeScript                 325 hrs 18 mins █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
+PHP                        102 hrs 49 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+SQL                        77 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Blade Template             39 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+```
+
+<!--END_SECTION:waka-->
+
+<img src="https://raw.githubusercontent.com/ricchrstn/ricchrstn/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rickychristians" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn logo" />
+  <a href="https://open.spotify.com/user/21m3khnbv2mqrpw532qrlb7ka">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21m3khnbv2mqrpw532qrlb7ka&count=5&unique=true" alt="Spotify recently played"  />
   </a>
+  <img width="12" />
+  <a href="https://app.daily.dev/ricchrstn"><img src="https://api.daily.dev/devcards/v2/7iThHcyatEBVnTBeYoZ1T.png?type=default&r=57e" width="235" alt="Ricky Christian Situmorang's Dev Card"/></a>
+</div>
+
+<div align="center">
   <a href="https://www.instagram.com/rickychristians/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram logo" />
   </a>
@@ -46,56 +68,4 @@
   </a>
 </div>
 
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ricchrstn/ricchrstn/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-### 📈 Visitor Count
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ricchrstn.ricchrstn" alt="Visitor Count" />
-</div>
-
----
-
-### 🎮 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricchrstn/ricchrstn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricchrstn/ricchrstn/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ricchrstn/ricchrstn/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-### 🎵 Spotify Recently Played
-
-<div align="center">
-  <a href="https://open.spotify.com/user/21m3khnbv2mqrpw532qrlb7ka" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21m3khnbv2mqrpw532qrlb7ka&count=5&unique=true" alt="Spotify Recently Played" />
-  </a>
-</div>
-
----
-
-### 🎵 Spotify Playlist
-
-<div align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/65mSMJlLxhFWC5GRUfaMqN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
-
----
-
-### 📝 Latest Medium Posts
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Latest Medium Posts" />
-</div>
-
----
+###

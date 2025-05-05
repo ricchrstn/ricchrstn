@@ -50,6 +50,20 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
+### 🎨 UI/UX Design Showcase
+
+<div align="center">
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-blue" alt="UI/UX Badge" />
+</div>
+
+Here are some of my UI/UX design projects that I have worked on:
+
+- **Project 1**: [E-commerce App Redesign](https://www.behance.net/yourprofile) - A modern and user-friendly redesign of an e-commerce application.
+- **Project 2**: [Portfolio Website](https://www.dribbble.com/yourprofile) - A clean and professional portfolio website showcasing creative works.
+- **Project 3**: [Mobile Banking App](https://www.figma.com/yourprofile) - A seamless and intuitive mobile banking experience.
+
+Feel free to explore my designs and provide feedback! 🚀
+
 ### 🏆 GitHub Achievements
 
 <div align="center">

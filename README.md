@@ -50,6 +50,25 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ricchrstn&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ricchrstn&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricchrstn&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+### 🌟 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricchrstn&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</div>
+
 <!--START_SECTION:waka-->
 
 ```yaml

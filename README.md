@@ -5,7 +5,9 @@
   <img src="https://profile-counter.glitch.me/ricchrstn/count.svg?"  />
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello, I'm Ricky Christian Situmorang! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
+<div align="center">
+  <h1>Hello, I'm Ricky Christian Situmorang!</h1>
+</div>
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building impactful projects. 
 

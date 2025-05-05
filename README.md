@@ -91,11 +91,7 @@ Other                      9 hrs 45 mins   ▓░░░░░░░░░░░�
 ### 🎵 Spotify Recently Played
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21m3khnbv2mqrpw532qrlb7ka&count=5&unique=true" alt="Spotify Recently Played" />
-</div>
-
-<div align="center">
   <a href="https://open.spotify.com/user/21m3khnbv2mqrpw532qrlb7ka">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31py3qwahsl76foqwc5f55butple&count=5&unique=true"" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21m3khnbv2mqrpw532qrlb7ka&count=5&unique=true" alt="Spotify Recently Played" />
   </a>
 </div>

@@ -1,14 +1,8 @@
 <!-- <img src="https://media1.tenor.com/m/slXqsD1oE-4AAAAd/lyney-lynette.gif" width="900"> -->
-<img src="https://media1.tenor.com/m/Jat0oxpwUIcAAAAd/fruits-basket-furuba.gif" width="900">
+<img src="https://media.tenor.com/solo-leveling-gif-url.gif" width="900">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ricchrstn/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://www.codewars.com/users/ricchrstn/badges/small" />
 </div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello, I'm Ricky Christian Situmorang! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
@@ -28,18 +22,14 @@ Thanks for stopping by! 🚀
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> &nbsp; Just Random Stats & Activity
-
-[![An image of @ricchrstn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ricchrstn)](https://holopin.io/@ricchrstn)
-
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte                     784 hrs 58 mins █████████████▓░░░░░░░░░░░   54.58 %
-TypeScript                 325 hrs 18 mins █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
-PHP                        102 hrs 49 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-SQL                        77 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Blade Template             39 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Dart                       120 hrs 30 mins ████████████░░░░░░░░░░░░░   40.00 %
+HTML                       80 hrs 15 mins  ███████░░░░░░░░░░░░░░░░░░   26.67 %
+CSS                        50 hrs 10 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
+JavaScript                 40 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
+Other                      9 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   3.33 %
 ```
 
 <!--END_SECTION:waka-->

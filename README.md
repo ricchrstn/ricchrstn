@@ -54,23 +54,16 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 ### 🎵 Spotify Playlist
-
 <div align="center">
-  <a href="https://open.spotify.com/playlist/65mSMJlLxhFWC5GRUfaMqN" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
-  </a>
-</div>
-
-### 🌐 Spotify Profile
-
-<div align="center">
-  <a href="https://open.spotify.com/user/21m3khnbv2mqrpw532qrlb7ka" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
+  <a href="https://open.spotify.com/user/31py3qwahsl76foqwc5f55butple">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31py3qwahsl76foqwc5f55butple&count=5&unique=true"" alt="Spotify recently played"  />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21m3khnbv2mqrpw532qrlb7ka&count=5&unique=true" alt="Spotify recently played" />
+  <a href="https://open.spotify.com/user/21m3khnbv2mqrpw532qrlb7ka">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21m3khnbv2mqrpw532qrlb7ka&count=5&unique=true" alt="Spotify recently played" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">

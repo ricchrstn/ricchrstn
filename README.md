@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/65mSMJlLxhFWC5GRUfaMqN" target="_blank">
-    Klik di sini untuk melihat playlist Spotify saya!
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
   </a>
 </div>
 
@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 <div align="center">
   <a href="https://open.spotify.com/user/21m3khnbv2mqrpw532qrlb7ka" target="_blank">
-    Klik di sini untuk melihat profil Spotify saya!
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
   </a>
 </div>
 

@@ -88,7 +88,14 @@ Other                      9 hrs 45 mins   ▓░░░░░░░░░░░�
 
 <img src="https://raw.githubusercontent.com/ricchrstn/ricchrstn/output/snake.svg" alt="Snake animation" />
 
+### 🎵 Spotify Recently Played
+
 <div align="center">
-  <a href="https://open.spotify.com/user/31py3qwahsl76foqwc5f55butple">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21m3khnbv2mqrpw532qrlb7ka&count=5&unique=true" alt="Spotify Recently Played" />
+</div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/21m3khnbv2mqrpw532qrlb7ka">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31py3qwahsl76foqwc5f55butple&count=5&unique=true"" alt="Spotify recently played"  />
   </a>
+</div>

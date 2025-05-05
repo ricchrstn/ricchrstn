@@ -1,4 +1,5 @@
-<!-- <img src="https://media1.tenor.com/m/slXqsD1oE-4AAAAd/lyney-lynette.gif" width="900"> -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ0d2lzNTFkamxzdG43bmtyY2l0bm9wOW5kcXJldHlnODhtOGwzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" width="900">
 
 <div align="center">
@@ -36,8 +37,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 ### 🌐 Connect with Me
 
@@ -101,3 +100,5 @@ Other                      9 hrs 45 mins   ▓░░░░░░░░░░░�
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21m3khnbv2mqrpw532qrlb7ka&count=5&unique=true" alt="Spotify Recently Played" />
   </a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">

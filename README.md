@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 - **Languages:** Dart, HTML, CSS, JavaScript
 - **Frameworks & Libraries:** Flutter, Bootstrap
-- **Databases:** Firebase
+- **Databases:** Firebase, MySQL
 - **Tools:** Git, VSCode
 
 ### 🌐 Connect with Me

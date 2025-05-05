@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/65mSMJlLxhFWC5GRUfaMqN" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="40" height="40" alt="Spotify Playlist" />
+    Klik di sini untuk melihat playlist Spotify saya!
   </a>
 </div>
 
@@ -62,7 +62,7 @@ Other                      9 hrs 45 mins   ▓░░░░░░░░░░░�
 
 <div align="center">
   <a href="https://open.spotify.com/user/21m3khnbv2mqrpw532qrlb7ka" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21m3khnbv2mqrpw532qrlb7ka&count=5&unique=true" alt="Spotify recently played" />
+    Klik di sini untuk melihat profil Spotify saya!
   </a>
 </div>
 

@@ -92,20 +92,25 @@ I'm passionate about software development, problem-solving, and continually impr
 </p>
 
 ## 🔗 Connect with Me
-<p align="center">
-  <a href="www.linkedin.com/in/rickychristians">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>
-</p>
 <div align="center">
+  <a href="https://www.linkedin.com/in/rickychristians/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <img width="10" />
+
   <a href="https://www.instagram.com/rickychristians/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+
   <img width="10" />
+
   <a href="https://t.me/rickychristians" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+
   <img width="10" />
+
   <a href="https://www.tiktok.com/@rickychristians" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>

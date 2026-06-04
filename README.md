@@ -13,8 +13,13 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Fresh graduate yang passionate tentang web development. Pernah ngerjain beberapa project kayak inventory system, mobile app, sama web apps. Mostly pakai Laravel untuk backend, terus HTML/CSS/JavaScript dan Flutter untuk frontend dan mobile. Database pake MySQL dan Firebase. Lagi cari kesempatan pertama sebagai Junior Developer atau Web Developer untuk belajar dan berkembang lebih lanjut.
+Hi, I'm Rizky Cristian Situmorang.
 
+I'm a recent Computer Science graduate with a strong interest in Web Development and Mobile Application Development. I enjoy building digital solutions, exploring new technologies, and transforming ideas into functional and user-friendly applications.
+
+Throughout my academic career, I've worked on several projects, including inventory management systems, web-based applications, and mobile applications. My primary expertise lies in developing web applications using Laravel, leveraging HTML, CSS, JavaScript, and Flutter to create responsive and engaging user experiences. For database management, I have experience working with MySQL and Firebase.
+
+I'm passionate about software development, problem-solving, and continually improving my technical skills to build efficient, scalable, and impactful solutions. As a recent graduate, I'm currently seeking opportunities as a Junior Developer, Web Developer, or Android Developer, where I can contribute, gain valuable industry experience, and continue to grow both professionally and technically.
 
 ## 🧠 My Focus Areas
 - Backend Development dengan Laravel
